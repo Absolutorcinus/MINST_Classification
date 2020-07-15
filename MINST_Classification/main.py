@@ -2,6 +2,8 @@ import tensorflow as tf
 import numpy as np
 from matplotlib import pyplot as plt
 import idx2numpy
+
+#DATA SET : http://yann.lecun.com/exdb/mnist/  
 '''
 idx2numpy package provides a tool for converting files to and from IDX format to numpy.ndarray 
 '''
